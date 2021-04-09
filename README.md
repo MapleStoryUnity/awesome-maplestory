@@ -59,8 +59,8 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 ### Art
 
-- [BannedStory]()
-- [MapleStory Network](https://maplestory.net/design)
+- [BannedStory 4](http://www.maplesimulator.com/programs/bannedstory) - The most powerful character creation tool for MapleStory, BannedStory allows you to create animated characters, monsters, pets, effects, skills, chat balloons and name tags.
+- [MapleStory Network](https://maplestory.net/design) - The best MapleStory simulator and character designer, crafted by maplers for maplers.
 - [MapleStory Simulator](https://maples.im/)
 
 ### Libraries
