@@ -40,8 +40,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 - [JourneyClient](https://github.com/SYJourney/JourneyClient)
 - [HeavenClient](https://github.com/HeavenClient/HeavenClient) - A custom client for HeavenMS
-- [MapleStory-GM-Client](https://github.com/Elem8100/MapleStory-GM-Client)
-- [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected)
+- [MapleStory-GM-Client](https://github.com/Elem8100/MapleStory-GM-Client) - Offline MapleStory Client Emulator
 
 ### Games
 
@@ -70,6 +69,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 ### Software
 
 - [WzComparerR2](https://github.com/Kagamia/WzComparerR2) - Maplestory online Extractor
+- [Harepacker-resurrected](https://github.com/lastbattle/Harepacker-resurrected) - File/Level editor for MapleStory game files
 - [HaSuite](https://github.com/hadeutscher/HaSuite) - A suite of MapleStory utilities
 - [PharaohStroy](https://github.com/flwmxd/PharaohStroy) - A maplestory IDE which can develop the multi-platform maplestory game
 - [MapleShark](https://github.com/diamondo25/MapleShark) - MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!
