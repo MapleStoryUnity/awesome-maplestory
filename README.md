@@ -9,6 +9,49 @@
 
 A curated list of awesome MapleStory emulators, libraries and software.
 
-## Emulators
+### Emulators
 
-## Websites
+#### KMS
+
+#### GMS
+
+- [HeavenMS](https://github.com/ronancpl/HeavenMS) - An improved server based on MapleSolaxia (v83 MapleStory private server)
+
+#### JMS
+
+#### CMS
+
+#### TMS
+
+- [MapleStory-v113-Server-Eimulator](https://github.com/reanox/MapleStory-v113-Server-Eimulator) - MapleStory Eimulator for Taiwan
+- [MapleStoryV119](https://github.com/reanox/MapleStoryV119)
+
+#### MSTH
+
+### Clients
+
+- [JourneyClient](https://github.com/SYJourney/JourneyClient)
+- [HeavenClient](https://github.com/HeavenClient/HeavenClient) - A custom client for HeavenMS
+
+### Websites
+
+- [maplestory-music](https://maplestory-music.github.io/)
+
+### Libraries
+
+- [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) - This has no life
+- [NoLifeNx](https://github.com/NoLifeDev/NoLifeNx) - Library to read NX files.
+- [maplebgm-db](https://github.com/maplestory-music/maplebgm-db)
+
+### Software
+
+## Other Awesome Lists
+
+A curated list of awesome lists can be found at [awesome.re](https://github.com/sindresorhus/awesome#readme).
+
+## License
+
+[![lice](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [MapleStoryUnity](https://github.com/MapleStoryUnity)
+has waived all copyright and related or neighboring rights to this work.
