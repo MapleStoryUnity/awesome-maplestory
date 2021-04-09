@@ -9,6 +9,27 @@
 
 A curated list of awesome MapleStory emulators, libraries and software.
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Emulators](#emulators)
+    - [KMS (Korea)](#kms-korea)
+    - [GMS (Global)](#gms-global)
+    - [JMS (Japan)](#jms-japan)
+    - [CMS (China)](#cms-china)
+    - [TMS (Taiwan)](#tms-taiwan)
+    - [MSTH (Thailand)](#msth-thailand)
+- [Clients](#clients)
+- [Games](#games)
+- [Websites](#websites)
+- [Art](#art)
+- [Libraries](#libraries)
+- [Software](#software)
+- [Other Awesome Lists](#other-awesome-lists)
+- [License](#license)
+
+<!-- markdown-toc end -->
+
 ### Emulators
 
 #### KMS (Korea)
