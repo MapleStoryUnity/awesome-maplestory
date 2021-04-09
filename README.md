@@ -52,6 +52,12 @@ A curated list of awesome MapleStory emulators, libraries and software.
 - [maplestory-music](https://maplestory-music.github.io/) - MapleStory Music website
 - [MapleStoryShop](https://github.com/Sealman234/MapleStoryShop) - MapleStoryShop
 
+### Art
+
+- [BannedStory]()
+- [MapleStory Network](https://maplestory.net/design)
+- [MapleStory Simulator](https://maples.im/)
+
 ### Libraries
 
 - [NoLifeStory](https://github.com/NoLifeDev/NoLifeStory) - This has no life
@@ -59,6 +65,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 - [MapleLib](https://github.com/hadeutscher/MapleLib) - A general-purpose MapleStory library
 - [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) - Definitive MapleStory music database
 - [MapleStory-tool](https://github.com/reanox/MapleStory-tool) - ijl15.dll for MapleStory
+- [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) - WzLib for Unity
 
 ### Software
 
