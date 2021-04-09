@@ -13,6 +13,8 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 #### KMS (Korea)
 
+- N/A
+
 #### GMS (Global)
 
 - [HeavenMS](https://github.com/ronancpl/HeavenMS) - An improved server based on MapleSolaxia (v83 MapleStory private server)
@@ -22,6 +24,8 @@ A curated list of awesome MapleStory emulators, libraries and software.
 - [Orpheus](https://github.com/aatxe/Orpheus) - Open Source MapleStory Server Emulator (v83)
 
 #### JMS (Japan)
+
+- N/A
 
 #### CMS (China)
 
@@ -35,6 +39,8 @@ A curated list of awesome MapleStory emulators, libraries and software.
 - [MapleStory-v120-Server-Simulator](https://github.com/reanox/MapleStory-v120-Server-Simulator)
 
 #### MSTH (Thailand)
+
+- N/A
 
 ### Clients
 
