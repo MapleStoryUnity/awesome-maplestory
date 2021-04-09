@@ -64,6 +64,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 - [MapleLib](https://github.com/hadeutscher/MapleLib) - A general-purpose MapleStory library
 - [maplebgm-db](https://github.com/maplestory-music/maplebgm-db) - Definitive MapleStory music database
 - [MapleStory-tool](https://github.com/reanox/MapleStory-tool) - ijl15.dll for MapleStory
+- [node-wz](https://github.com/toyobayashi/wz) - MapleStory wz reader for Node.js and browser.
 - [UnityWzLib](https://github.com/MapleStoryUnity/UnityWzLib) - WzLib for Unity
 
 ### Software
