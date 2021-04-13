@@ -77,6 +77,7 @@ A curated list of awesome MapleStory emulators, libraries and software.
 
 - [maplestory-music](https://maplestory-music.github.io/) - MapleStory Music website
 - [MapleStoryShop](https://github.com/Sealman234/MapleStoryShop) - MapleStoryShop
+- [Maplestory Cube Sim](https://stripedypaper.github.io/cube/) - SUPER REAL MapleStory CUBE Simulator
 
 ### Art
 
